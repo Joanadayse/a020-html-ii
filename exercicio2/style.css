@@ -19,13 +19,13 @@
     align-items: stretch;
   }
   
-  section, .c{
+  section, .d{
     background-color: #d4d4d4;
     width: 100%;
     padding: 20px 20px 0 20px;
   }
   
-  article, .d{
+  article, .c{
     background-color: #dedede;
     height: 25%;
     width: 100%;
@@ -41,4 +41,18 @@
     text-align: center;
     color: white;
   }
+
+  img {
+    max-width: 100%;
+    max-height: 100%;
+   }
+   .d {
+    height: 200px;
+    width: 200px;
+   }
+
+   video{
+    max-width: 100%;
+    max-height: 100%;
+   }
   
